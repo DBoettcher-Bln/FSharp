@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\leap\\Leap.fsproj": {}
+    "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\leap\\Leap.fsproj": {}
   },
   "projects": {
-    "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\leap\\Leap.fsproj": {
+    "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\leap\\Leap.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\leap\\Leap.fsproj",
+        "projectUniqueName": "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\leap\\Leap.fsproj",
         "projectName": "Leap",
-        "projectPath": "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\leap\\Leap.fsproj",
+        "projectPath": "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\leap\\Leap.fsproj",
         "packagesPath": "C:\\Users\\dirkb\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\leap\\obj\\",
+        "outputPath": "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\leap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dirkb\\AppData\\Roaming\\NuGet\\NuGet.Config"
