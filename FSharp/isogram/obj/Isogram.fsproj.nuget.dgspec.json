@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\isogram\\Isogram.fsproj": {}
+    "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\isogram\\Isogram.fsproj": {}
   },
   "projects": {
-    "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\isogram\\Isogram.fsproj": {
+    "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\isogram\\Isogram.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\isogram\\Isogram.fsproj",
+        "projectUniqueName": "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\isogram\\Isogram.fsproj",
         "projectName": "Isogram",
-        "projectPath": "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\isogram\\Isogram.fsproj",
+        "projectPath": "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\isogram\\Isogram.fsproj",
         "packagesPath": "C:\\Users\\dirkb\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\isogram\\obj\\",
+        "outputPath": "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\isogram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dirkb\\AppData\\Roaming\\NuGet\\NuGet.Config"
