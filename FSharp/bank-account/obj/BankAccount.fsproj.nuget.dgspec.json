@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\poker\\Poker.fsproj": {}
+    "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\bank-account\\BankAccount.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\poker\\Poker.fsproj": {
+    "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\bank-account\\BankAccount.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\poker\\Poker.fsproj",
-        "projectName": "Poker",
-        "projectPath": "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\poker\\Poker.fsproj",
+        "projectUniqueName": "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\bank-account\\BankAccount.fsproj",
+        "projectName": "BankAccount",
+        "projectPath": "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\bank-account\\BankAccount.fsproj",
         "packagesPath": "C:\\Users\\dirkb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\poker\\obj\\",
+        "outputPath": "c:\\Users\\dirkb\\Documents\\FSharp\\FSharp\\bank-account\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dirkb\\AppData\\Roaming\\NuGet\\NuGet.Config"
